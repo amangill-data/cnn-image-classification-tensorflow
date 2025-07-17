@@ -1,4 +1,4 @@
-# CNN Image Classification using TensorFlow
+# CNN Image Classification 
 
 This project implements and compares convolutional neural networks for classifying image datasets including MNIST and CIFAR-10 using TensorFlow and Keras.
 
