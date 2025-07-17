@@ -4,7 +4,7 @@ This project implements and compares convolutional neural networks for classifyi
 
 ## Context:
 
-Developed as a midterm project for the course **ADTA 5550: Deep Learning with Big Data** in Spring 2025.
+Developed as a final project for the course **ADTA 5550: Deep Learning with Big Data** in Spring 2025.
 
 ## Project Structure:
 
