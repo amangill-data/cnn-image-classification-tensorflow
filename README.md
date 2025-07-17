@@ -14,7 +14,7 @@ Developed as a final project for the course **ADTA 5550: Deep Learning with Big 
 - `notebooks/ADTAFINALP2.ipynb`  
   Follow up notebook exploring alternative architectures or experiments.
 
-- `ADTA5550_final_project.docx`  
+- `report/ADTA5550_final_project.docx`  
   Final project report including methodology, results, and analysis.
 
 ## Dataset Overview:
