@@ -13,6 +13,11 @@ This project was completed as part of my graduate coursework for ADTA 5550: Deep
 - `ADTA5550_final_project.docx`  
   Final project report including methodology, results, and analysis.
 
+## Dataset Overview:
+
+This project uses the CIFAR-10 dataset, consisting of 60,000 32×32 color images across 10 classes.
+It is loaded directly in the notebook using the keras.datasets.cifar10 module, so no manual download is required.
+
 ## Key Concepts:
 
 - Convolutional Neural Networks 
