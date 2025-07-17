@@ -1,6 +1,10 @@
 # CNN Image Classification using TensorFlow
 
-This project was completed as part of my graduate coursework for ADTA 5550: Deep Learning with Big Data. It implements and compares convolutional neural networks for classifying image datasets including MNIST and CIFAR-10 using TensorFlow and Keras.
+This project implements and compares convolutional neural networks for classifying image datasets including MNIST and CIFAR-10 using TensorFlow and Keras.
+
+## Context:
+
+Developed as a midterm project for the course **ADTA 5550: Deep Learning with Big Data** in Spring 2025.
 
 ## Project Structure:
 
